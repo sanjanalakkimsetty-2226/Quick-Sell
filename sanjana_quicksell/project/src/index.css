@@ -1,0 +1,56 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #373737;
+  background-color: #f4f5f8;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+}
+
+select {
+  color: #373737;
+}
+
+button {
+  color: #373737;
+  background-color: #f4f5f8;
+  border: 1px solid #e6e7eb;
+  border-radius: 4px;
+  padding: 4px 12px;
+  cursor: pointer;
+}
+
+.display-button {
+  color: #373737;
+}
+
+.dropdown select {
+  color: #373737;
+  background-color: white;
+}
+
+.ticket {
+  color: #373737;
+}
+
+.ticket-header {
+  color: #8D8D8D;
+}
+
+.count {
+  color: #8D8D8D;
+}
+
+.tag {
+  color: #8D8D8D;
+}
